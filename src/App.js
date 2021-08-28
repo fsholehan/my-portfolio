@@ -26,6 +26,15 @@ function App() {
               link="https://condescending-hopper-faed09.netlify.app/"
             />
             <Card
+              img="Pulsa App"
+              title="Cookpen"
+              meta="Web ppob terinspirasi sepulsa"
+              description="Aktifkan dulu demo di https://cors-anywhere.herokuapp.com/corsdemo"
+              tech="ReactJs, Tailwind, Redux"
+              github="https://github.com/fsholehan/pulsa-app"
+              link="https://priceless-heyrovsky-72c4bf.netlify.app/"
+            />
+            <Card
               img="https://i.pinimg.com/564x/7d/f8/28/7df8288d688efa84d026de1086e55512.jpg"
               title="Lyrics Finder"
               meta="Web lirik musixmatch"
