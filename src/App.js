@@ -5,7 +5,7 @@ import Card from "./components/Card";
 
 function App() {
   return (
-    <>
+    <div>
       <Header />
       <Hero
         Icon={CodeIcon}
@@ -16,6 +16,15 @@ function App() {
         <section className="px-3 md:px-12 py-6 ">
           <h1 className="my-5 font-bold text-gray-700 text-xl">Project</h1>
           <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-2">
+            <Card
+              img="/images/tokped-clone.png"
+              title="Tokopedia Clone"
+              meta="Web resep terinspirasi tokopedia"
+              description="Belum responsive masih desktop version"
+              tech="ReactJs, Tailwind"
+              github="https://github.com/fsholehan/tokoad"
+              link="https://tokopedia-clone-tailwind.netlify.app/"
+            />
             <Card
               img="https://i.pinimg.com/564x/3f/f1/08/3ff1081673407f15e6789253b0f85401.jpg"
               title="Cookpen"
@@ -82,7 +91,7 @@ function App() {
           </div>
         </section>
       </main>
-    </>
+    </div>
   );
 }
 

@@ -17,7 +17,7 @@ export default function Card({
         <h3 className="text-gray-700 text-sm">{meta}</h3>
         <p className="py-2">{description}</p>
         <p className="text-gray-700 font-semibold">{tech}</p>
-        <div className="pt-2 flex items-center justify-between">
+        <div className="my-auto flex items-center justify-between">
           <a href={github} target="_blank" className="btn">
             Github
           </a>
