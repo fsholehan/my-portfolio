@@ -4,9 +4,9 @@
 
 @layer components {
   .link {
-    @apply font-medium text-gray-700 hidden md:inline-flex cursor-pointer hover:underline;
+    @apply font-medium text-gray-700 dark:text-white hidden md:inline-flex cursor-pointer hover:underline;
   }
   .btn {
-    @apply px-3 py-1 border rounded-lg hover:bg-gray-50 text-gray-600;
+    @apply px-3 py-1 border dark:border-gray-600 rounded-lg  dark:text-gray-50 text-gray-600 my-auto;
   }
 }

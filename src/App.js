@@ -12,9 +12,11 @@ function App() {
         title="Think, Code, Debug"
         description="My Name is Fuad"
       />
-      <main className="h-screen bg-gray-100">
+      <main className="h-screen bg-gray-100 dark:bg-gray-600">
         <section className="px-3 md:px-12 py-6 ">
-          <h1 className="my-5 font-bold text-gray-700 text-xl">Project</h1>
+          <h1 className="my-5 font-bold text-gray-700 text-xl dark:text-gray-50">
+            Project
+          </h1>
           <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-2">
             <Card
               img="/images/tokped-clone.png"
