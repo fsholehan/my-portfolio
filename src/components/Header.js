@@ -34,6 +34,8 @@ export default function Header() {
     } else {
       document.documentElement.classList.remove("dark");
     }
+
+    localStorage.removeItem("theme");
   }, []);
 
   return (
