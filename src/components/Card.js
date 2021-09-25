@@ -12,7 +12,7 @@ export default function Card({
       <div className="w-full  overflow-hidden rounded-t-md">
         <img src={img} alt="object-cover rounded-t-md h-64" />
       </div>
-      <div className="p-2 flex flex-col">
+      <div className="p-2 flex flex-col space-y-4">
         <h1 className="text-gray-700 dark:text-gray-100 text-lg truncate font-bold">
           {title}
         </h1>

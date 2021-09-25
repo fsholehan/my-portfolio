@@ -9,4 +9,8 @@
   .btn {
     @apply px-3 py-1 border dark:border-gray-600 rounded-lg  dark:text-gray-50 text-gray-600 my-auto;
   }
+
+  .shadow-bottom-line-white {
+    --tw-shadow: #111827 0px -0.166667em 0px 0px inset,#6b7280 0px -0.333333em 0px 0px inset;
+}
 }

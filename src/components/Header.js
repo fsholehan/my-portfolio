@@ -39,7 +39,7 @@ export default function Header() {
   }, []);
 
   return (
-    <header className="cpntainer mx-auto flex items-center justify-between px-5 py-3 shadow-sm bg-white dark:bg-gray-800 z-50">
+    <header className="flex items-center justify-between px-5 py-3 shadow-sm bg-white dark:bg-gray-800 z-50">
       {/* Left */}
       <div className="flex-grow">
         <div className="flex items-center justify-between ">
