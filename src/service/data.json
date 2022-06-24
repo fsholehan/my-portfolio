@@ -9,6 +9,15 @@
     "link": "https://admusic-mu.vercel.app"
   },
   {
+    "image": "https://i.pinimg.com/564x/f0/33/3c/f0333c3447e1aade52e9b2137b842932.jpg",
+    "title": "Netbook Landing Page",
+    "meta": "Landing Page keren",
+    "description": "Sangat bagus sekali untuk produk mu",
+    "tech": "Html, Javascript, Tailwind",
+    "github": "https://github.com/fsholehan/netbook",
+    "link": "https://netbook-fns.netlify.app/"
+  },
+  {
     "image": "/images/tokped-clone.png",
     "title": "Tokopedia Clone",
     "meta": "Tokopedia Homepage",
