@@ -4,7 +4,7 @@
     "title": "Admusic Streaming",
     "meta": "Streaming music for free",
     "description": "Web streaming lagu dan lirik",
-    "tech": "ReactJs, Tailwind",
+    "tech": "nextjs, Tailwind",
     "github": "https://github.com/fsholehan/admusic",
     "link": "https://admusic-mu.vercel.app"
   },
