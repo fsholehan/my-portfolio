@@ -5,7 +5,7 @@ export default function Hero({ Icon, title, description }) {
       <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
         {title}
       </h1>
-      <p className="text-lg text-gray-700 dark:text-gray-50 font-medium">
+      <p className="text-lg text-gray-700 dark:text-gray-50 font-medium md:w-96 text-center mx-auto">
         {description}
       </p>
     </section>
