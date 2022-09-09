@@ -9,6 +9,15 @@
     "link": "https://admusic-mu.vercel.app"
   },
   {
+    "image": "https://i.pinimg.com/564x/38/85/24/388524b585e5867ab7a87ec85e61fc0f.jpg",
+    "title": "Youtube API Search",
+    "meta": "Real-time youtube data api",
+    "description": "Get all the data from youtube",
+    "tech": "nextjs, Tailwind",
+    "github": "https://github.com/fsholehan/youtube-dl-api",
+    "link": "https://fns-mp3-ok.herokuapp.com/"
+  },
+  {
     "image": "https://i.pinimg.com/564x/f0/33/3c/f0333c3447e1aade52e9b2137b842932.jpg",
     "title": "Netbook Landing Page",
     "meta": "Landing Page keren",
