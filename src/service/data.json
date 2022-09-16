@@ -21,7 +21,7 @@
     "image": "https://i.pinimg.com/564x/38/85/24/388524b585e5867ab7a87ec85e61fc0f.jpg",
     "title": "Youtube API Search",
     "meta": "Real-time youtube data api",
-    "description": "Get all the data from youtube, documentation https://fns-mp3-ok.herokuapp.com/docs",
+    "description": "Get all the data from youtube includes search, views, autocomplete, audio, documentation https://fns-mp3-ok.herokuapp.com/docs",
     "tech": "expressjs, nodejs",
     "github": "https://github.com/fsholehan/youtube-dl-api",
     "link": "https://fns-mp3-ok.herokuapp.com/"
