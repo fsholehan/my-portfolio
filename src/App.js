@@ -18,7 +18,7 @@ function App() {
       <Hero
         Icon={CodeIcon}
         title="Think, Code, Debug"
-        description="Hola, Fuad here... I am a frontend developer who loves code. Currently I'm working with React Js. You can see list of project I've created below."
+        description="Holla, Fuad here... I am a frontend developer who loves code. Currently I'm working with React Js. You can see list of project I've created below."
       />
       <main className="h-screen bg-gray-100 dark:bg-gray-600">
         <section className="px-3 md:px-12 py-6 ">
